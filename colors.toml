@@ -1,0 +1,40 @@
+mode = "dark"
+
+# Port of the iTerm2 "Fahrenheit" color scheme. The ANSI slots keep the
+# original's unconventional warm mapping (e.g. "red" is tan, "blue" is
+# oxblood) so terminal output matches the source scheme.
+
+accent = "#fd9f4d"
+selection = "#3d2b1f"
+selection_background = "#4e739f"
+selection_foreground = "#ffffce"
+muted = "#7c6f5f"
+
+background = "#000000"
+dark_background = "#000000"
+darker_background = "#000000"
+lighter_background = "#1d1d1d"
+
+foreground = "#ffffce"
+dark_foreground = "#979797"
+light_foreground = "#fecea0"
+bright_foreground = "#ffffff"
+
+hyprland_active_border = "rgba(fd9f4dee) rgba(cb4a05ee) 45deg"
+hyprland_inactive_border = "rgba(404040aa)"
+
+red = "#cda074"
+yellow = "#fecf75"
+orange = "#fd9f4d"
+green = "#9e744d"
+cyan = "#979797"
+blue = "#7f0e0f"
+magenta = "#734c4d"
+brown = "#734c4d"
+
+bright_red = "#fecea0"
+bright_yellow = "#fd9f4d"
+bright_green = "#cc734d"
+bright_cyan = "#fed04d"
+bright_blue = "#cb4a05"
+bright_magenta = "#4e739f"
