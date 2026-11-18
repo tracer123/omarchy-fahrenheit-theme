@@ -79,3 +79,8 @@ The terminal colors keep the original scheme's unusual mapping: "red" is tan,
     ([source](https://commons.wikimedia.org/wiki/File:Joseph_Wright_(of_Derby)_-_The_Annual_Girandola_at_the_Castel_Sant%E2%80%99Angelo,_Rome_-_Google_Art_Project.jpg)).
   - John Martin, *The Destruction of Pompeii and Herculaneum*, 1822, Tate
     ([source](https://commons.wikimedia.org/wiki/File:Destruction_of_Pompeii_and_Herculaneum.jpg)).
+
+## License
+
+[MIT](LICENSE). The wallpapers are public-domain works and are not covered by
+the license.
